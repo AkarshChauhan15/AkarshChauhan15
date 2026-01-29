@@ -63,7 +63,11 @@ I specialize in building small projects. I love desigining 2D indie, action and 
   <img width="12" />
   <img src="https://img.shields.io/badge/Inkscape-000000?logo=inkscape&logoColor=white&style=for-the-badge" height="40" alt="inkscape logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=black&style=for-the-badge" height="40" alt="fedora logo"  />
+  <img src="https://img.shields.io/badge/-GIMP-grey?style=for-the-badge&logo=gimp&logoColor=white" height="40" alt="gimp logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/-ASEPRITE-lightblue?style=for-the-badge&logo=aseprite&logoColor=black" height="40" alt="aseprite logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=white&style=for-the-badge" height="40" alt="fedora logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="40" alt="linux logo"  />
   <img width="12" />
@@ -84,6 +88,8 @@ I specialize in building small projects. I love desigining 2D indie, action and 
   <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=black&style=for-the-badge" height="40" alt="android logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/-KDENLIVE-blue?style=for-the-badge&logo=kdenlive&logoColor=white" height="40" alt="kdenlive logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=black&style=for-the-badge" height="40" alt="qt logo"  />
 </div>
